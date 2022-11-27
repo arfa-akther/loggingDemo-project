@@ -1,0 +1,14 @@
+02:28:10.239 [main] INFO  rcvDemo1.LoggingDemoSecond - Click successful
+02:28:10.241 [main] ERROR rcvDemo1.LoggingDemoSecond - DB connection failed
+02:30:48.225 [main] INFO  rcvDemo1.LoggingDemoSecond - Click successful
+02:30:48.227 [main] ERROR rcvDemo1.LoggingDemoSecond - DB connection failed
+02:39:32.418 [main] INFO  rcvDemo1.LoggingDemoSecond - Click successful
+02:39:32.420 [main] ERROR rcvDemo1.LoggingDemoSecond - DB connection failed
+02:39:32.421 [main] TRACE rcvDemo1.LoggingDemoSecond - trace level
+02:39:32.421 [main] DEBUG rcvDemo1.LoggingDemoSecond - This is to debug
+02:39:32.421 [main] INFO  rcvDemo1.LoggingDemoSecond - Click successful
+02:39:32.421 [main] ERROR rcvDemo1.LoggingDemoSecond - DB connection failed
+02:39:32.423 [main] TRACE rcvDemo1.LoggingDemoSecond - trace level
+02:39:32.423 [main] DEBUG rcvDemo1.LoggingDemoSecond - This is to debug
+02:39:32.424 [main] INFO  rcvDemo1.LoggingDemoSecond - Click successful
+02:39:32.424 [main] ERROR rcvDemo1.LoggingDemoSecond - DB connection failed

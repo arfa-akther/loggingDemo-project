@@ -1,0 +1,9 @@
+02:42:33.050 [main] ERROR rcvDemo1.LoggingDemoSecond - DB connection failed
+02:42:33.054 [main] TRACE rcvDemo1.LoggingDemoSecond - trace level
+02:42:33.054 [main] DEBUG rcvDemo1.LoggingDemoSecond - This is to debug
+02:42:33.055 [main] INFO  rcvDemo1.LoggingDemoSecond - Click successful
+02:42:33.055 [main] ERROR rcvDemo1.LoggingDemoSecond - DB connection failed
+14:54:25.577 [main] INFO  rcvDemo.LoggingDemoFirst - Click successful
+14:54:25.578 [main] ERROR rcvDemo.LoggingDemoFirst - DB connection failed
+14:54:25.578 [main] DEBUG rcvDemo.LoggingDemoFirst - This is debug
+14:54:25.579 [main] FATAL rcvDemo.LoggingDemoFirst - This is fatal
