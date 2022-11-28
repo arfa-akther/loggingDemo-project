@@ -1,0 +1,4 @@
+//arfa//
+public class demoDelete {
+
+}
